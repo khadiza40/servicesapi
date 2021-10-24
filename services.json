@@ -1,0 +1,38 @@
+[
+   {
+      "_id": 101,
+      "name": "BEHAVIOR",
+      "desc": " Behavioral health refers to how our daily cognitive habits affect our overall well-being, emotions, biology, and behavior. It's often used interchangeably with mental health, but is actually a far more expansive term that incorporates not just our mental wellness, but the way our thoughts play out in real life.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYyqLnU-4H5uC25v8sS5wAavhVp0iYG-ww5_1S2jnnxK2q2EGlzv97x4H0hVeNAXurDVI&usqp=CAU"
+      },
+   {
+      "_id": 102,
+      "name": "CARDIOLOGY",
+      "desc": "Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist. Cardiology is a branch of internal medicine.",
+      "img": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/02/03/647631-cardiac.jpg"
+   },
+   {
+      "_id": 103,
+      "name": "VACCIONATIONS",
+      "desc": "Healthcare workers may be exposed to, and transmit, vaccine-preventable diseases such as influenza, measles, rubella and pertussis. Maintaining immunity in the healthcare worker population helps prevent transmission of vaccine-preventable diseases to and from healthcare workers and patients.",
+       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM5ZUtbMHu_09MjfTMSgV7dLI05_HzTnGc_w&usqp=CAU"
+   },
+   {
+      "_id": 104,
+      "name": "SURGERIES",
+      "desc": "The purpose of surgery varies, but it may be recommended for making or confirming a diagnosis, removing damaged tissue or an obstruction, repairing or repositioning tissues or organs, implanting devices, redirecting blood vessels, or transplanting tissues or organs. Some people opt for surgery for cosmetic reasons.",
+      "img": "https://www.studentresearchfoundation.org/wp-content/uploads/2018/03/Virtual-Operating-Theater-1030x687.jpg"
+   },
+   {
+      "_id": 105,
+      "name": "DENTISTRY",
+      "desc": "Dental or oral health is concerned with your teeth, gums and mouth. The goal is to prevent complications such as tooth decay (cavities) and gum disease and to maintain the overall health of your mouth. Promoting oral health and disease prevention. Creating treatment plans to maintain or restore the oral health of their patients. Interpreting x-rays and diagnostic tests. Ensuring the safe administration of anesthetics.",
+       "img": "https://media.istockphoto.com/photos/healthcare-and-medicine-concept-picture-id1147579540?k=20&m=1147579540&s=612x612&w=0&h=T2KiKQOpwAOFE3pC1fC54koaitag5dI7H0GLr0poeTQ="
+   },
+   {
+      "_id": 106,
+      "name": "GENETICS",
+      "desc": "Genetics improves personal and public health, contributing to disease diagnosis, prevention, and treatment and informing reproductive decisions. Understanding genetic factors and genetic disorders is important in learning more about promoting health and preventing disease. Some genetic changes have been associated with an increased risk of having a child with a birth defect or developmental disability or developing diseases such as cancer or heart disease.",
+  "img": "https://online.stanford.edu/sites/default/files/styles/figure_default/public/2018-03/genetics_fundamentals-of-genetics_xgen101.jpg?itok=UQ2TN86m"
+   }
+]
